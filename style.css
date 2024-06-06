@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+}
+h1{
+    padding: 5px;
+    margin: 0px;
+}
+.text{
+    margin: 0%;
+    padding-bottom:5px ;
+}
+
+header{
+    height: 300px; /*respect sigma moment*/
+    background-color:#034657 ; /*eshkere*/
+    color: #7a1e1e; /*цвет текста*/
+    text-align:center ;
+    font-size:30px ;
+    padding-top: 60px;
+    background-image: url("https://cdn.theatlantic.com/thumbor/W544GIT4l3z8SG-FMUoaKpFLaxE=/0x131:2555x1568/1600x900/media/img/mt/2017/06/shutterstock_319985324/original.jpg");
+    background-position:top ;
+    text-shadow: 1px 21px 30px rgb(41, 0, 226);
+    font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+}
+main{
+    height: 100%; /*respect sigma moment*/
+    background-color:#abe295 ; /*eshkere*/
+    color: #ff00ea; /*цвет текста*/
+    text-align:left ;
+    font-size:30px ;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 35px;
+    display: flex;
+}
+
+
+.left{
+    width: 50%;
+    font-size: 100%;
+}
+.right{
+    width: 70%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+  font-style: normal; 
+    height: 450px; /*respect sigma moment*/
+    background-color:#e29a95 ; /*eshkere*/
+    color: #efff0c; /*цвет текста*/
+    text-align:center ;
+    font-size:100PX ;
+}
+.social img{
+    width: 100px;
+    padding-left: 20px;
+}
+.social{
+    list-style:none ;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
